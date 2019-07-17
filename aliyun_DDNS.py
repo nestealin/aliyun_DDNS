@@ -70,6 +70,7 @@ ValueKeyWord	String	否	    记录值的关键字，按照”%ValueKeyWord%”�
 '''
 
 
+# 获取域名RecordID
 def get_record_id(RRKeyWord):
     global RecordId
     request.set_action_name('DescribeDomainRecords')
