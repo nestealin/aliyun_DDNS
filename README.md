@@ -3,9 +3,9 @@
 *阿里云域名解析增删改查。<br>
 <br>
 <br>
-**脚本前言赘述：**<br>
-# 1, 此脚本已通过3.7.4运行，用来对阿里云云解析增删改查，使用之前请先安装sdk:pip3 install aliyun-python-sdk-core-v3<br>
-# 2, 手动引入部分请从阿里云github下载，地址：https://github.com/aliyun/aliyun-openapi-python-sdk<br>
+# 脚本前言赘述：<br>
+**1, 此脚本已通过3.7.4运行，用来对阿里云云解析增删改查，使用之前请先安装sdk:pip3 install aliyun-python-sdk-core-v3**<br>
+**2, 手动引入部分请从阿里云github下载，地址：https://github.com/aliyun/aliyun-openapi-python-sdk**<br>
 >2.1, git clone https://github.com/aliyun/aliyun-openapi-python-sdk.git<br>
 >2.2, cd aliyun-openapi-python-sdk/aliyun-python-sdk-alidns/<br>
 >2.3, python3 setup.py install<br>
